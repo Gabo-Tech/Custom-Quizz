@@ -3,7 +3,7 @@
 
 
 
-Well this is as simple as Another Computer Quiz Open Sourced Game. 
+Well this is as simple as Another Computer Quiz Open Sourced Game using the Open Trivia api and also having custom questions. 
 
 
 ## Getting Started
