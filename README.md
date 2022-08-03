@@ -8,7 +8,7 @@ Well this is as simple as Another Computer Quiz Open Sourced Game using the [Ope
 
 ## Getting Started
 
-Well, just visit the website at [gabriel19971029.github.io/Custom-Quizz/](https://gabriel19971029.github.io/Custom-Quizz/) and enjoy! 
+Well, just visit the website at [Gabo-Tech.github.io/Custom-Quizz/](https://https://gabo-tech.github.io/Custom-Quizz/) and enjoy! 
 
 ### You want to own this website?
 
